@@ -1,0 +1,12 @@
+# except these file types
+*.Rproj
+*.Rproj.user
+.Rproj.user
+.Rhistory
+outputs/
+*.log
+.Renviron
+# tests/
+
+
+outputs/
